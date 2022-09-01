@@ -24,14 +24,20 @@
 
 <!-- ## [🌏 Click here Visit live page](https://talewindcss-rode-clone.netlify.app/){:target="\_blank"} -->
 
-## <a href="https://talewindcss-rode-clone.netlify.app" target="_blank" rel="noopener">🌏 Click here Visit live page</a>
+## <a href="https://talewindcss-rode-clone.netlify.app" target="_blank">🌏 Click here Visit live page</a>
 
-<a href="https://talewindcss-rode-clone.netlify.app" target="_blank">Opens in new tab</a>
 <br>
 
-# Below is screenshot of Full mobile & full page view.
+# Below is screenshot of Full mobile & [Click here for full page view.](#full-page-view)
 
 <br>
 
 ![Mobile Resonsive Page Screenshot](./images/Screenshot/Rode_mobile_page.jpeg)
+<br>
+
+# Full Page View
+
+<br>
+
 ![Mobile Resonsive Page Screenshot](./images/Screenshot/Clone_Rode.jpeg)
+## <center> [Back to top](#centerclone-of---font-colorac9870rødefont-home-pagecenter)</center>
