@@ -8,9 +8,9 @@
 
 ## Topics learnt in this project
 
-- tailwindcss framwork
-- structuring large pages with tailwindcss
-- mobilefirst approach towards building responsive pages
+-   tailwindcss framwork
+-   structuring large pages with tailwindcss
+-   mobilefirst approach towards building responsive pages
 
 <br>
 
@@ -19,14 +19,17 @@
 # <font color="Yellow">**⌚ 1.5 day**</font>
 
 ## **By : Kalpesh K Dhotre**
+
 <br>
 
 <!-- ## [🌏 Click here Visit live page](https://talewindcss-rode-clone.netlify.app/){:target="\_blank"} -->
 
-## <a href="http://example.com" target="_blank" rel="noopener">🌏 Click here Visit live page</a>
+## <a href="https://talewindcss-rode-clone.netlify.app" target="_blank" rel="noopener">🌏 Click here Visit live page</a>
+
 <br>
 
 # Below is screenshot of Full mobile & full page view.
+
 <br>
 
 ![Mobile Resonsive Page Screenshot](./images/Screenshot/Rode_mobile_page.jpeg)
