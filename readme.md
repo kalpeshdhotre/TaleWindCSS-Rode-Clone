@@ -26,6 +26,7 @@
 
 ## <a href="https://talewindcss-rode-clone.netlify.app" target="_blank" rel="noopener">🌏 Click here Visit live page</a>
 
+<a href="https://talewindcss-rode-clone.netlify.app" target="_blank">Opens in new tab</a>
 <br>
 
 # Below is screenshot of Full mobile & full page view.
