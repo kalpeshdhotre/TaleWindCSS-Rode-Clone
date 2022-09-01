@@ -21,6 +21,12 @@
 ## **By : Kalpesh K Dhotre**
 <br>
 
-# Below is screenshot of mobile responsive version
-![Mobile Resonsive Page Screenshot](./images/Screenshot/Clone_Rode.jpeg)
+## [🌏 Click here Visit live page](https://talewindcss-rode-clone.netlify.app/)
+
+<br>
+
+# Below is screenshot of Full mobile & full page view.
+<br>
+
 ![Mobile Resonsive Page Screenshot](./images/Screenshot/Rode_mobile_page.jpeg)
+![Mobile Resonsive Page Screenshot](./images/Screenshot/Clone_Rode.jpeg)
