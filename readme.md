@@ -21,8 +21,9 @@
 ## **By : Kalpesh K Dhotre**
 <br>
 
-## [🌏 Click here Visit live page](https://talewindcss-rode-clone.netlify.app/)
+<!-- ## [🌏 Click here Visit live page](https://talewindcss-rode-clone.netlify.app/){:target="\_blank"} -->
 
+## <a href="http://example.com" target="_blank" rel="noopener">🌏 Click here Visit live page</a>
 <br>
 
 # Below is screenshot of Full mobile & full page view.
