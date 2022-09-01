@@ -16,7 +16,7 @@
 
 ## Time to complete this project
 
-# <font color="Yellow">**⌚ 1.5 day**</font>
+## <font color="Yellow">**⌚ 1.5 day**</font>
 
 ## **By : Kalpesh K Dhotre**
 
@@ -28,7 +28,7 @@
 
 <br>
 
-# Below is screenshot of Full mobile & [Click here for full page view.](#full-page-view)
+## Below is screenshot of Mobile View & [Click here for full page view.](#full-page-view)
 
 <br>
 
