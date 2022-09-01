@@ -8,9 +8,9 @@
 
 ## Topics learnt in this project
 
--   tailwindcss framwork
--   structuring large pages with tailwindcss
--   mobilefirst approach towards building responsive pages
+-   Tailwindcss framwork
+-   Structuring large pages with tailwindcss
+-   Mobile first approach towards building responsive pages
 
 <br>
 
@@ -22,9 +22,10 @@
 
 <br>
 
-<!-- ## [🌏 Click here Visit live page](https://talewindcss-rode-clone.netlify.app/){:target="\_blank"} -->
+<!-- ## [🌏 Deployed link](https://talewindcss-rode-clone.netlify.app/){:target="\_blank"} -->
 
-## <a href="https://talewindcss-rode-clone.netlify.app" target="_blank">🌏 Click here Visit live page</a>
+## <a href="https://talewindcss-rode-clone.netlify.app" target="_blank">🌏 My Deployed link</a>
+### <a href="https://rode.com/en" target="_blank">🌏 Original website link</a>
 
 <br>
 
