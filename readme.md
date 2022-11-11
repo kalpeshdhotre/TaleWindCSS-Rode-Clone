@@ -1,3 +1,5 @@
+> DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
+
 # <center>**Clone of - <font color="#ac9870">"RØDE"</font> Home Page**</center>
 
 <br>
@@ -25,6 +27,7 @@
 <!-- ## [🌏 Deployed link](https://talewindcss-rode-clone.netlify.app/){:target="\_blank"} -->
 
 ## <a href="https://talewindcss-rode-clone.netlify.app" target="_blank">🌏 My Deployed link</a>
+
 ### <a href="https://rode.com/en" target="_blank">🌏 Original website link</a>
 
 <br>
@@ -41,4 +44,5 @@
 <br>
 
 ![Mobile Resonsive Page Screenshot](./images/Screenshot/Clone_Rode.jpeg)
+
 ## <center> [Back to top](#centerclone-of---font-colorac9870rødefont-home-pagecenter)</center>
